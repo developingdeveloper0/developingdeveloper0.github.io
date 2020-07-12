@@ -1,0 +1,46 @@
+.welcome {
+	text-align: center;
+	margin-top: 50px;
+
+}
+
+.college{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.navbar-brand {
+	border-right: 1px solid white;
+	padding-right: 10px;
+}
+.date {
+	text-align: center;
+
+}
+
+.navbar{
+	background: linear-gradient(#000000, #189bb5);
+}
+
+
+/*.jumbotron{
+	margin-top: 50px;
+
+}*/
+
+.one {
+	color: white;
+	background: linear-gradient(#189bb5, #000000);
+}
+.two {
+	background: linear-gradient(#189bb5, #000000);
+	color: white;
+}
+
+.three {
+	background: linear-gradient(#189bb5, #000000);
+	color: white;
+}
+body {
+	background-color: black;
+}
